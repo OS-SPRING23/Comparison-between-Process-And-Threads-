@@ -7,7 +7,7 @@
 #include<sys/wait.h>
 #include<sys/ipc.h>
 #include<sys/shm.h>
-
+//
 int array[10000];
 
 struct data
