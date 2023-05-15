@@ -1018,7 +1018,7 @@ int main()
 
     printf("\033[1;36m");
     printf("\n\tProcess Vs Thread Through Sorting\n");
-    printf("\t      ____________________");
+    printf("\t      ____________________\t");
 
     while(1)
     {
